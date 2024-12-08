@@ -1,4 +1,9 @@
-## Hi there 👋
+
+Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Sparkle314)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/can__i_kiss_you)
+
+
 
 <!--
 **abernovv/abernovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
