@@ -1,7 +1,7 @@
 Languages and Tools
 
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
+![Python3](https://img.shields.io/badge/-Python3-090909?style=for-the-badge&logo=Python3&logoColor=E9D54D)
 
 
 Follow me
